@@ -3,7 +3,7 @@ This is for connecting a SP1 breakout board to a ENC28J60 for use in the SP1 por
 
 You can find the Eth2GC project here https://github.com/webhdx/ETH2GC
 
-You can get the SP1 breakout board from here https://github.com/silverstee1/SP1-Breakout-PCB
+You can find the SP1 breakout board from here https://github.com/silverstee1/SP1-Breakout-PCB
 
 This is a untested device so use at your own risk!!!
 
